@@ -1,0 +1,5 @@
+.navcontainer{
+    background-color: rgb(255,215,0);
+    display: flex;
+    justify-content: center;
+}
